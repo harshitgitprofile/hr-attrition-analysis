@@ -1,6 +1,6 @@
-# HR Analytics Project — IBM Attrition Dataset
+**# HR Analytics Project — IBM Attrition Dataset
 ### Author: Harshit Panchal | Tools: SQL (PostgreSQL) + Excel
-
+**
 ---
 
 ## Project Overview
